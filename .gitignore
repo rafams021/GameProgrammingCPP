@@ -15,3 +15,9 @@ Shapes/.vs/Shapes/v17/Browse.VC.db
 *.idb
 *.pdb
 Shapes/x64/Debug/Shapes.exe
+*.db-shm
+*.db-wal
+*.opendb
+*.iobj
+*.ipdb
+*.exe
