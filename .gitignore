@@ -4,3 +4,14 @@ Shapes/.vs/Shapes/v17/.suo
 Shapes/.vs/Shapes/v17/Browse.VC.db
 Shapes/.vs/Shapes/v17/.suo
 Shapes/.vs/Shapes/v17/Browse.VC.db
+*.vsidx
+*.lock
+*.ipch
+*.recipe
+*.obj
+*.ilk
+*.log
+*.tlog
+*.idb
+*.pdb
+Shapes/x64/Debug/Shapes.exe
