@@ -1,2 +1,2 @@
 # GameProgrammingCPP
- First Game programming projects
+ Game programming projects
